@@ -15,3 +15,27 @@
 <li><strong>Automatic Updates</strong>: Get notifications and update the application to the latest version automatically from within the app.</li>
 <li><strong>Light &amp; Dark Mode</strong>: Customize the application’s appearance according to your preference.</li>
 </ul>
+
+<h2 tabindex="-1" class="heading-element" dir="auto">📦 Installation</h2>
+
+<ol dir="auto">
+<li>Go to the Releases page.</li>
+<li>Download the <code>.exe</code> file from the latest release (e.g., <code>OryxTracker.exe</code>).</li>
+<li>Save the file anywhere on your computer.</li>
+<li>Run the <code>.exe</code> file to start the application. No installation is required!</li>
+</ol>
+
+<h2 tabindex="-1" class="heading-element" dir="auto">🧪 How to Use</h2>
+<ol dir="auto">
+<li><strong>First-Time Login</strong>: When running the application for the first time, use the default login details:
+<ul dir="auto">
+<li><strong>Username</strong>: <code>admin</code></li>
+<li><strong>Password</strong>: <code>admin</code></li>
+</ul>
+</li>
+<li><strong>User Management</strong>: It is highly recommended to immediately change the default password or create a new user via the <strong>"Manage Users"</strong> button in the sidebar.</li>
+<li><strong>Configuration</strong>: Before you start, open <strong>"Manage Configs"</strong> to add the lists of Wallets, Networks, and Categories you frequently use.</li>
+<li><strong>Create an Account</strong>: Create your first tracking account using the “➕ Add Account” button.</li>
+<li><strong>Start Tracking</strong>: Select an account, then begin adding your airdrop tasks using the form at the top.</li>
+</ol>
+<h2 tabindex="-1" class="heading-element" dir="auto">🛠 Built With</h2>
