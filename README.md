@@ -3,7 +3,6 @@
 <img width="1592" height="872" alt="image34" src="https://github.com/user-attachments/assets/f47cc926-cb02-4fbd-9421-7a41bc552ba2" />
 
 <p dir="auto">Oryx Tracker is a desktop application for Windows designed to help airdrop hunters track all their activities neatly and efficiently. Forget messy spreadsheets: manage all your projects, wallets, and tasks in one secure application that runs locally on your computer.</p>
-
 <h2 tabindex="-1" class="heading-element" dir="auto">🔑 Key Features</h2>
 <ul dir="auto">
 <li><strong>Multi-Account Management</strong>: Easily manage multiple separate portfolios or identities!</li>
@@ -15,16 +14,13 @@
 <li><strong>Automatic Updates</strong>: Get notifications and update the application to the latest version automatically from within the app.</li>
 <li><strong>Light &amp; Dark Mode</strong>: Customize the application’s appearance according to your preference.</li>
 </ul>
-
 <h2 tabindex="-1" class="heading-element" dir="auto">📦 Installation</h2>
-
 <ol dir="auto">
 <li>Go to the Releases page.</li>
 <li>Download the <code>.exe</code> file from the latest release (e.g., <code>OryxTracker.exe</code>).</li>
 <li>Save the file anywhere on your computer.</li>
 <li>Run the <code>.exe</code> file to start the application. No installation is required!</li>
 </ol>
-
 <h2 tabindex="-1" class="heading-element" dir="auto">🧪 How to Use</h2>
 <ol dir="auto">
 <li><strong>First-Time Login</strong>: When running the application for the first time, use the default login details:
@@ -39,3 +35,10 @@
 <li><strong>Start Tracking</strong>: Select an account, then begin adding your airdrop tasks using the form at the top.</li>
 </ol>
 <h2 tabindex="-1" class="heading-element" dir="auto">🛠 Built With</h2>
+<ul dir="auto">
+<li>Python 3</li>
+<li>CustomTkinter: For the modern user interface.</li>
+<li>SQLite3: For the local database.</li>
+</ul>
+<h2 tabindex="-1" class="heading-element" dir="auto">💛 Contributing</h2>
+<p dir="auto">Contributions, issues, and feature requests are welcome! Feel free to create an <em>issue</em> or a <em>pull request</em>.</p>
