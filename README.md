@@ -16,7 +16,7 @@
 </ul>
 <h2 tabindex="-1" class="heading-element" dir="auto">📦 Installation</h2>
 <ol dir="auto">
-<li>Go to the Releases page.</li>
+<li>Go to the Releases page.</li> <a href="https://github.com/kuncikayus/airdrop-tracker-app/blob/main/OryxTracker%20v1.0.0.exe" download="OryxTracker%20v1.0.0.exe">Download</a>
 <li>Download the <code>.exe</code> file from the latest release (e.g., <code>OryxTracker.exe</code>).</li>
 <li>Save the file anywhere on your computer.</li>
 <li>Run the <code>.exe</code> file to start the application. No installation is required!</li>
